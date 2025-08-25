@@ -1,0 +1,6 @@
+name: VanillaXYZ
+main: Biswajit\VanillaXYZ\Main
+version: 1.0.0
+api: [5.0.0]
+author: Biswajit
+description: "A VanillaXYZ Which Turn On Coordinates"
